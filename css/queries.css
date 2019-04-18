@@ -1,0 +1,36 @@
+@media only screen and (max-width:480px){
+  .top-container {
+
+  width: 100%;
+    }
+  .mountain-img{
+text-align: center;
+width: 400px;
+height: 400px;
+  }
+  .welcome{
+    width: 60%;
+    margin: auto;
+  }
+  .contact-message{
+    width: 60%;
+    margin-bottom: 50px;
+  }
+  .middle-container{
+    padding-bottom: 40px;
+  }
+  .top-cloud {
+    right: 250px;
+    top: 50px;
+  }
+  .bottom-cloud {
+    left: 250px;
+    bottom: 350px;
+  }
+  h1{
+    font-size: 70px;
+  }
+  h2{
+    font-size: 40px;
+  }
+}
